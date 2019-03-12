@@ -1,1 +1,1 @@
-FROM registry.access.redhat.com/rhscl/nginx-114-rhel7
+FROM rhscl/nginx-114-rhel7
